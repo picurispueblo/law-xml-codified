@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>Pueblo of Picuris Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/picurispueblo/law-xml</xml-bulk>
+      <html-bulk>https://github.com/picurispueblo/law-html</html-bulk>
+      <static-assets>https://github.com/picurispueblo/law-static-assets</static-assets>
+      <html>https://law.picurispueblo.org</html>
+    </canonical-urls>
+    <history-start>2025-03-10</history-start>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="picurispueblo/law-xml" commit="3adbd6655db53c570f912bef387780c52afbbcc1"/>
+      </repositories>
+      <platform version="2.15.16" reproducible="true"/>
+      <build-date>2025-04-03</build-date>
+      <codified-date>2025-03-11</codified-date>
+      <publication>publication/2025-04-03</publication>
+    </build>
+  </meta>
+  <xi:include href="./us/nsn/picurispueblo/council/code/index.xml"/>
+  <collection name="us/nsn/picurispueblo/council/resolutions">
+    <heading>Resolutions</heading>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2025/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2014/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2013/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2010/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2009/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2008/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2007/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2006/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2005/index.xml"/>
+    <xi:include href="./us/nsn/picurispueblo/council/resolutions/2000/index.xml"/>
+  </collection>
+</library>
