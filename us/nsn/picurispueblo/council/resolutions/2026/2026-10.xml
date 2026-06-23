@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pueblo of Picuris Tribal Council Res. No. 2026-10" codify:doc="Pueblo of Picuris Tribal Law and Order Code">
+  <num>2026-10</num>
+  <heading>A RESOLUTION OF THE GOVERNING BODY OF PICURIS PUEBLO TO STRENGTHEN ENFORCEMENT AND PENALTIES FOR LITTERING AND ILLEGAL DUMPING WITHIN THE EXTERIOR BOUNDARIES AND CHECKERBOARD AREAS OF THE PUEBLO; TO ESTABLISH A SCALED CIVIL PENALTY STRUCTURE; AND TO DIRECT UPDATED PUBLIC NOTICE AND SIGNAGE</heading>
+  <meta>
+    <effective>2026-03-13</effective>
+    <history>
+      <adopted>2026-03-13</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-10.pdf">Res. No. 2026-10</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <para>
+        <num>1.</num>
+        <text>
+          <strong>The Pueblo of Picuris exercises inherent sovereign authority to protect its lands, natural resources, public health, and welfare within its exterior boundaries; and</strong>
+        </text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <strong>The Pueblo's lands, including checkerboard areas, are experiencing increased littering and illegal dumping causing environmental, cultural, and public health harm; and</strong>
+        </text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>
+          <strong>The current civil penalty of $300 is outdated and insufficient to deter violations; and</strong>
+        </text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>
+          <strong>The Pueblo has a compelling interest in strengthening enforcement mechanisms; and</strong>
+        </text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>
+          <strong>Public awareness and updated signage are necessary to support enforcement and compliance;</strong>
+        </text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE, BE IT RESOLVED</conjunction>
+    </recital>
+  </recitals>
+  <codify:insert path="4|4.04" after="4.04.530" codified:doc="Pueblo of Picuris Tribal Law and Order Code" codified:path="|4.04.535">
+    <section>
+      <num>4.04.535</num>
+      <heading>Littering Fines.</heading>
+    </section>
+  </codify:insert>
+  <section codify:tag="para">
+    <codify:insert path="4.04.535" codified:doc="Pueblo of Picuris Tribal Law and Order Code" codified:path="|4.04.535|(a)"/>
+    <num codify:value="(a)">1</num>
+    <heading codify:tag="text">Updated Civil Penalties</heading>
+    <text>First Offense: Not less than $500 - $1,000</text>
+    <text>Second Offense: Not less than $2,500</text>
+    <text>Third and Subsequent Offenses: Not less than $5,000</text>
+    <text>Each day a violation continues may be treated as a separate offense at the discretion of the Tribal Court.</text>
+  </section>
+  <section codify:tag="para">
+    <codify:insert path="4.04.535" codified:doc="Pueblo of Picuris Tribal Law and Order Code" codified:path="|4.04.535|(b)"/>
+    <num codify:value="(b)">2</num>
+    <heading codify:tag="text">Aggravating Factors and Enhanced Penalties</heading>
+    <text>Penalties may increase for:</text>
+    <text>
+      <ul proof="needed">
+        <li>Hazardous or toxic dumping</li>
+        <li>Cultural or protected areas</li>
+        <li>Commercial or large-scale dumping</li>
+        <li>Use of vehicles or equipment</li>
+      </ul>
+    </text>
+    <text>Penalties may exceed $5,000 and include full restitution.</text>
+  </section>
+  <section codify:tag="para">
+    <codify:insert path="4.04.535" codified:doc="Pueblo of Picuris Tribal Law and Order Code" codified:path="|4.04.535|(c)"/>
+    <num codify:value="(c)">3</num>
+    <heading codify:tag="text">Restitution and Remediation</heading>
+    <text>The Court may order:</text>
+    <text>
+      <ul proof="needed">
+        <li>Cleanup cost reimbursement</li>
+        <li>Environmental restoration</li>
+        <li>Community service</li>
+        <li>Vehicle or equipment impoundment</li>
+      </ul>
+    </text>
+  </section>
+  <section codify:tag="para">
+    <codify:insert path="4.04.535" codified:doc="Pueblo of Picuris Tribal Law and Order Code" codified:path="|4.04.535|(d)"/>
+    <num codify:value="(d)">4</num>
+    <heading codify:tag="text">Jurisdiction and Enforcement</heading>
+    <text>Applies to all persons within the exterior boundaries to the fullest extent of Tribal and federal law.</text>
+    <text>Enforced by Tribal law enforcement and authorized Pueblo officials.</text>
+  </section>
+  <section codify:tag="para">
+    <codify:insert path="4.04.535" codified:doc="Pueblo of Picuris Tribal Law and Order Code" codified:path="|4.04.535|(e)"/>
+    <num codify:value="(e)">5</num>
+    <heading codify:tag="text">Signage and Public Notice</heading>
+    <text>The Pueblo shall install updated signage stating:</text>
+    <text>Minimum $1,000 fine<br/>Escalating penalties<br/>Subject to Tribal Court jurisdiction</text>
+  </section>
+  <section codify:tag="para">
+    <codify:insert path="4.04.535" codified:doc="Pueblo of Picuris Tribal Law and Order Code" codified:path="|4.04.535|(f)"/>
+    <num codify:value="(f)">6</num>
+    <heading codify:tag="text">Severability</heading>
+    <text>If any provision is invalid, remaining provisions remain in effect.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Effective Date</heading>
+    <text>Effective immediately upon adoption.</text>
+  </section>
+  <procedural-data>
+    <text>
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>I, the undersigned, as Governor of the Pueblo of Picuris, hereby, certify that the Pueblo of Picuris Tribal Council, at a duly called meeting convened on the <u>13th day</u> of March, 2026, at the Pueblo of Picuris, at which a quorum was present, approved the foregoing Resolution, and that <em><u>6</u></em> voted for, <em><u>0</u></em> were absent, and <em><u>2</u></em> were opposed.</text>
+  </procedural-data>
+</document>
